@@ -1,6 +1,0 @@
-logs.txt
-build
-.venv
-.idea
-__pycache__
-.gitignore
