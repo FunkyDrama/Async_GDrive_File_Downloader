@@ -5,4 +5,4 @@ Instructions:
 
 Copy a link to a file, for example from a spreadsheet (you can copy many links).
 Paste it/them into the text box. If you have many links, paste one link per line.
-Click the button, select a folder and enjoy the fast download!
+Click the button, select a folder and enjoy the fast download!# Async_GDrive_File_Downloader
